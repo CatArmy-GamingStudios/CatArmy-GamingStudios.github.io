@@ -1,0 +1,17 @@
+filename = 'climbable_ropes-1.3.0.jar'
+name = 'Climbable Ropes for Create Aeronautics'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0'
+
+[download]
+hash = '99cb4154c6c161f6c913e7aabf93421fb5c190d2cc07342fa0023571148b8b691fb94ab8dfca8619fdb321e0075acedf17e63e6280fcc0785af32dd0e5a8975d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jImqv1M5/versions/Clue7DBs/climbable_ropes-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'jImqv1M5'
+version = 'Clue7DBs'
