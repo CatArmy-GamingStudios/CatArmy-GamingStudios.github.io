@@ -1,0 +1,17 @@
+filename = 'simulatedextra-1.0-SNAPSHOT.jar'
+name = 'Simulated Extra'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1'
+
+[download]
+hash = '387998f0d6e984f35ebae38d55aa92d4b2da4f338ec4dccca221d8b0c66fcefd41940acbcf54ebb169bf3c5fe8e08ae0fc2bf4ded3296bf1171fd1e14b9712b6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L064RU4O/versions/mMTeN4LJ/simulatedextra-1.0-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'L064RU4O'
+version = 'mMTeN4LJ'
