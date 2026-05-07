@@ -1,0 +1,13 @@
+name = "Engineer's Paradise"
+author = "CatArmy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c68cc557510711b580f88e18b33eec083326615afd8390e75dae88230b96091"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
